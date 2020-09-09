@@ -1,0 +1,1 @@
+"# .NETCORE / CQRS / DDD / EFCORE / SQLSERVER ..." 
